@@ -819,7 +819,7 @@
       transition: all 3s;
       }
       .skills .skill-div .skills-item .bar .fill:before {
-        content: attr(data-width);
+        /*content: attr(data-width);*/
             position: absolute;
             top: -30px;
             right: -15px;
